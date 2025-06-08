@@ -72,4 +72,3 @@ The app follows a clean architecture pattern with the following structure:
 
 **I confirm that this application was fully developed by me during the exam period. I have not received or used code from others except publicly available resources.**
 
----
